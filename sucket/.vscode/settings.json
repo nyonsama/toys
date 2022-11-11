@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "socket.h": "c",
+        "types.h": "c",
+        "unistd.h": "c",
+        "in.h": "c",
+        "errno.h": "c",
+        "netutil.h": "c",
+        "client.h": "c",
+        "server.h": "c",
+        "cmath": "c",
+        "*.tcc": "c",
+        "complex": "c",
+        "fileserver.h": "c"
+    }
+}

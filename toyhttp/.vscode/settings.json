@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "atomic": "c",
+        "condition_variable": "c",
+        "future": "c",
+        "mutex": "c",
+        "toyhttp.h": "c",
+        "netutil.h": "c",
+        "simplehttp.h": "c"
+    },
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools"
+}

@@ -1,0 +1,7 @@
+{
+  "detect": "apt",
+  "classify": {
+    "heifengli": 0.2,
+    "duyunteng": 0.8
+  }
+}
